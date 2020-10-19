@@ -6,3 +6,4 @@ What you see infront of you is a basic rundown of a new project that I'm startin
 
 This will be made in several different software engines. The primary one being Unity.
 
+This project is primarly based on User Interface, however that may vary at times. It doesn't fall into any specific category, due to it simply being an experimental! For now, the project will consist of 2 different styles. 1 of them being 3D and the other 2D. Not to fear, they will differ from eachother, yet be able to simultaneously maintain some similarities.
