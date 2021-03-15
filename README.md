@@ -2,8 +2,9 @@
 
 |Visual Animations|
 
-What you see in front of you is a basic rundown of a new project that I'm starting on. This project will be done solo therefore I may not be able to give you daily updates.
+What you see in front of you is a basic rundown of a new project that I am currently working on; this will be a personal project of mine. Therefore, daily updates may not occur. 
 
-This will be made in several different software engines. The primary one being Unity.
+This project will consist of various software engines. The primary one is Unity.
 
-This project is primarily based on User Interface, however, that may vary at times. It doesn't fall into any specific category, due to it simply being experimental! For now, the project will consist of 2 different styles. 1 of them being 3D and the other 2D. Not to fear, they will differ from each other, yet be able to simultaneously maintain some similarities.
+For the most part, this will be leaning more towards the visual interface side of things. With that said, that may vary depending on the direction I choose to go. Due to this project being experimental, it does not fall into any category. The project will consist of both 3D and 2D design techniques. 
+
